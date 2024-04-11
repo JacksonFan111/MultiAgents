@@ -9,7 +9,8 @@ Zero Shot Prompting
  
  
 OR Agentic Workflow
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/db0b653b-686d-42cd-bc28-fea1b7b2485f)
+
  
  
  
@@ -29,7 +30,8 @@ Agentic with GPT 3.5 outperform 4 !!!!!
  
  
 -------------------
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/307d9e67-c310-4c4d-92b2-ae2f27e4e6d1)
+
  
  
  
@@ -40,13 +42,15 @@ Agentic with GPT 3.5 outperform 4 !!!!!
 Coder Agent >> expert coder
  
 Critic Agent >>  expert code reviewer
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/6738c38a-f69c-4d23-a7c9-b7e0bef9abc1)
+
  
  
 -----------------------
  
 2.	What tool we are going to use???
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/21f6f9c0-79bc-4861-915e-896844569c92)
+
  
  
 -------------------------------
@@ -58,7 +62,8 @@ New Stuff??
 3.	Planning Algorithm
  
 Multiple Agents and models??
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/13e837d1-eb11-4eb0-a63f-adc5b9b3794a)
+
  
  
  
@@ -67,7 +72,8 @@ Multiple Agents and models??
 4.	Multi Agent Collaboration
  
 *** CHAT DEV
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/3dee3c53-d803-437f-b36e-383355353bce)
+
  
 A Gomoke Game
  
@@ -86,7 +92,8 @@ Software development team>>
  
 GPT and Gemini debate together ?? >> how to achieve??
  
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/1010b51c-5d8e-453f-94dd-f60475b67b6b)
+
  
  
  
@@ -102,7 +109,8 @@ Delegates tasks
  
  
 ----------------------------
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/7e8649c0-5fa2-4665-85f3-bd651a8620e7)
+
 --------
  
 Sure! This image appears to show a hand-drawn diagram of a workflow involving multiple "agents" or systems that are collaborating on a task. Let's break down each part:
@@ -129,10 +137,14 @@ From <https://chat.openai.com/c/588f98fd-d36e-4c62-9967-025e67496a78>
  
 Prompt
 Create an illustrated flow diagram that represents a multi-agent software development process with five distinct roles. The flow should start with 'A: Designing', where the role is planning and UX/UI design, followed by 'B: Coding', which involves writing and compiling the code. Next is 'C: Documenting', where the role creates user manuals and code documentation. This is followed by 'D: Testing', which includes checking for bugs and testing software functionality. Finally, 'E' represents a central coordination or project management role, overseeing the entire process. The diagram should have arrows to show the flow from A to E, with each role connected in sequence, and should be easy to understand with a clean, professional appearance suitable for a business presentation.
- 
- 
- 
- 
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/12adbd8d-c5af-40d4-bd00-21492cad7660)
+
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/2e50571c-86ea-46de-b64b-14e3a23db1cb)
+
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/d7aed151-5d9b-4fb2-8cb1-252d8e175382)
+
+ ![image](https://github.com/JacksonFan111/MultiAgents/assets/17584732/63f6e1f7-ab0f-4864-8665-029890cd527c)
+
  
  
  
